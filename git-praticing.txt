@@ -1,0 +1,5 @@
+what is git ?
+Git was created by Linus Torvalds in 2005 to develop Linux Kernel. Git is an open-source distributed version control system. It is designed to handle minor to major projects with high speed and efficiency. It is developed to coordinate the work among the developers. The version control allows us to track and work together with our team members in the same workspace.
+
+What is GitHub?
+GitHub is a web-based platform that provides hosting for version control using Git. It serves as a central hub for software development, offering a wide range of features and tools to support collaborative coding, project management, and open-source contributions. GitHub is widely used by individual developers, teams, and organizations to manage and share their software projects.
